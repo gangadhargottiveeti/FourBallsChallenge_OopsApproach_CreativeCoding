@@ -1,7 +1,6 @@
 import processing.core.PApplet;
 public class Ball{
     private float xPosition, yPosition, sizeOfBall;
-
     public Ball(){
 
     }
